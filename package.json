@@ -1,0 +1,27 @@
+{
+  "name": "password-strength",
+  "version": "1.0.0",
+  "description": "Widget to simplify forms by using a single input for password with visibility toggle.",
+  "main": "password-toggle.html",
+  "dependencies": {
+    "bootstrap": "^3.3.5",
+    "zxcvbn": "^4.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@gitlab.akema.fr:33622/akema-lab/ui-component.git"
+  },
+  "keywords": [
+    "password",
+    "UI",
+    "UX",
+    "visibility",
+    "form"
+  ],
+  "author": "Édouard Lopez",
+  "license": "MIT"
+}
