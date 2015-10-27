@@ -4,11 +4,11 @@ Widget to give feedback to user about their password strength.
 
 ## Preview
 
-![preview/password-strength-0.png](preview/password-strength-0.png "password-strength is 0/4")
-![preview/password-strength-1.png](preview/password-strength-1.png "password-strength is 1/4")
-![preview/password-strength-2.png](preview/password-strength-2.png "password-strength is 2/4")
-![preview/password-strength-3.png](preview/password-strength-3.png "password-strength is 3/4")
-![preview/password-strength-4.png](preview/password-strength-4.png "password-strength is 4/4")
+![password strength is 0 out of 4](preview/password-strength-0.png "password-strength is 0/4")
+![password strength is 1 out of 4](preview/password-strength-1.png "password-strength is 1/4")
+![password strength is 2 out of 4](preview/password-strength-2.png "password-strength is 2/4")
+![password strength is 3 out of 4](preview/password-strength-3.png "password-strength is 3/4")
+![password strength is 4 out of 4](preview/password-strength-4.png "password-strength is 4/4")
 
 ## Requirements
 
