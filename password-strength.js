@@ -20,7 +20,7 @@ function updateLabel(score) {
 
     var feedback = document.getElementById('password-strength');
 
-    console.log(strength, strength[score]);
+    console.info('password: ', strength[score].label);
     feedback.value = strength[score].label;
     feedback.className = strength[score].tone;
 }
