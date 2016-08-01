@@ -19,7 +19,7 @@ Widget to give feedback to user about their password strength.
 
 1. Install `zxcvbn`
  
-    npm install --save zxcvbn 
+        npm install --save zxcvbn
 
 2. Import the `SCSS` in your main stylesheet (or link to the `CSS`): 
 
