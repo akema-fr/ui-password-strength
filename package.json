@@ -5,7 +5,7 @@
   "main": "password-toggle.html",
   "dependencies": {
     "bootstrap": "^3.3.5",
-    "zxcvbn": "^4.0.1"
+    "zxcvbn": "^4.4.2"
   },
   "devDependencies": {},
   "scripts": {
